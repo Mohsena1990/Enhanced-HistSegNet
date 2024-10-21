@@ -1,4 +1,4 @@
-
+w
 
 # Enhanced-HisSegNet
 ## Enhanced-HisSegNet: Improved SAR Image Flood Segmentation with Histogram Layers and Active Contour Model
@@ -52,7 +52,7 @@ Each file follows the naming scheme EVENT_CHIPID_LAYER.tif (e.g. `Bolivia_103757
 
 #### Example images
 
-A sample of the dataset for chip _Spain_7370579_ is provided at in `./sample`
+A sample of the dataset for chip _Spain_7370579_ is provided below:
 
 <div>
   <img src="https://github.com/cloudtostreet/Sen1Floods11/blob/master/docs/img/Spain_7370579_Label.png" height="256" hspace=3 >
