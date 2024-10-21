@@ -55,7 +55,7 @@ Each file follows the naming scheme EVENT_CHIPID_LAYER.tif (e.g. `Bolivia_103757
 A sample of the dataset for chip _Spain_7370579_ is provided at in `./sample`
 
 <div>
-  <img src="./docs/img/Spain_7370579_Label.png" height="256" hspace=3 >
+  <img src="https://github.com/cloudtostreet/Sen1Floods11/blob/master/docs/img/Spain_7370579_Label.png" height="256" hspace=3 >
   <img src="./docs/img/Spain_7370579_S1.png" height="256" hspace=3 >
   <img src="./docs/img/Spain_7370579_S2.png" height="256" hspace=3 >
 </div>
