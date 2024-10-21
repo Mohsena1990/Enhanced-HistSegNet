@@ -1,5 +1,3 @@
-w
-
 # Enhanced-HisSegNet
 ## Enhanced-HisSegNet: Improved SAR Image Flood Segmentation with Histogram Layers and Active Contour Model
 
